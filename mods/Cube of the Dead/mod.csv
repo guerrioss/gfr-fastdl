@@ -1,0 +1,5 @@
+stringtable,maps\mapsTable.csv 
+rawfile,mod.arena
+localize,mod
+images,preview_zombie_alley
+material,preview_zombie_alley

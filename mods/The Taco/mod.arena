@@ -1,0 +1,7 @@
+{
+	map			"zombie_taco"
+	loadscreen	""
+	longname	"The Taco"
+	gametype	"zom"
+	description	"v1.0"
+}

@@ -1,0 +1,6 @@
+{
+	map		"zombie_free"
+	loadscreen	"preview_zombie_riper"
+	longname	"Jungle"
+	gametype	"zom"
+}

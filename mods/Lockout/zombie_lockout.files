@@ -1,0 +1,8 @@
+aitype\zombie_ger_zombie.gsc
+aitype\zombie_quad.gsc
+character\c_zom_quad.gsc
+character\character_sp_zombie_dog.gsc
+character\clientscripts\c_ger_honorguard_zt.csc
+character\clientscripts\c_zom_quad.csc
+images\preview_zombie_apment.dds
+images\preview_zombie_apment.iwi

@@ -1,0 +1,6 @@
+{
+	map		"zombie_firstroo"
+	loadscreen	"preview_zombie_riper"
+	longname	"Lock Down First Room"
+	gametype	"zom"
+}

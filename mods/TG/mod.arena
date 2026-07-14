@@ -1,0 +1,6 @@
+{
+	map			"zombie_tg"
+	loadscreen	"preview_zombie_apment"
+	longname	"MOD_ZOMBIE_TG_CAPS"
+	gametype	"zom"
+}

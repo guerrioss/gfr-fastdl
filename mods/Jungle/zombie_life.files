@@ -1,0 +1,13 @@
+aitype\zombie_ger_zombie.gsc
+aitype\zombie_quad.gsc
+character\c_zom_quad.gsc
+character\character_sp_zombie_dog.gsc
+character\clientscripts\c_ger_honorguard_zt.csc
+character\clientscripts\c_zom_quad.csc
+localizedstrings\mod.str
+maps\_zombiemode_perks.gsc
+maps\zombie_free.gsc
+missingasset.csv
+mod.arena
+mod.csv
+weapons\sp\m14_zm

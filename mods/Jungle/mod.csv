@@ -1,0 +1,5 @@
+stringtable,maps\mapsTable.csv
+rawfile,mod.arena
+localize,mod
+fx,maps/vorkuta/fx_flame_welding_torch 
+weapon,sp\m14_zm

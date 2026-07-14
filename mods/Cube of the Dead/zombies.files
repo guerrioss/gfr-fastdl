@@ -1,0 +1,14 @@
+_zombiemode.gsc
+images\preview_zombie_alley.iwi
+localizedstrings\mod.str
+maps\_zombiemode_ai_quad.gsc
+maps\_zombiemode_timer.gsc
+maps\mapsTable.csv
+maps\zombie_alley.gsc
+maps\zombie_alley_amb.gsc
+maps\zombie_alley_fx.gsc
+maps\zombie_theater_quad.gsc
+mod.arena
+mod.csv
+mod.json
+video\zombie_alley_load.bik

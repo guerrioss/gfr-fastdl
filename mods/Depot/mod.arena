@@ -1,0 +1,6 @@
+{
+	map			"zombie_depot"
+	loadscreen	"preview_zombie_apment"
+	longname	"MOD_ZOMBIE_DEPOT_CAPS"
+	gametype	"zom"
+}

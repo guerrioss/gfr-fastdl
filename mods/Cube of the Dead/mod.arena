@@ -1,0 +1,6 @@
+{
+	map			"zombie_alley"
+	loadscreen	"preview_zombie_alley"
+	longname	"^1Cube of the Dead"
+	gametype	"zom"
+}

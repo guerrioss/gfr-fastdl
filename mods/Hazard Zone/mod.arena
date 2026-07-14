@@ -1,0 +1,6 @@
+{
+	map			"zombie_hz"
+	loadscreen	"preview_zombie_hz"
+	longname	"Hazard Zone"
+	gametype	"zom"
+}

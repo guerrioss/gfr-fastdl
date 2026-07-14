@@ -1,0 +1,13 @@
+aitype\zombie_ger_zombie.gsc
+aitype\zombie_quad.gsc
+character\c_zom_quad.gsc
+character\character_sp_zombie_dog.gsc
+character\clientscripts\c_ger_honorguard_zt.csc
+character\clientscripts\c_zom_quad.csc
+localizedstrings\mod.str
+maps\_zombiemode_spawner.gsc
+mod.arena
+mod.csv
+screenshots\shot0000.jpg
+screenshots\shot0001.jpg
+screenshots\shot0002.jpg
