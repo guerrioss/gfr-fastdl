@@ -1,0 +1,6 @@
+{
+	map		"zombie_busdepotphz"
+	loadscreen	"preview_zombie_busdepotphz"
+	longname	"MOD_LEVEL_BUSDEPOTPHZ_CAPS"
+	gametype	"zom"
+}
